@@ -1,0 +1,17 @@
+*.log
+*.node
+*.DS_Store
+
+.tmp/
+_labs/
+_src_init/
+_projects/
+bower_components/
+resources/
+node_modules/
+tasks/
+
+MQDUi/
+mui/
+build/
+src/
